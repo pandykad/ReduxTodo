@@ -1,8 +1,14 @@
-# React + Vite
+# ReduxTodo
+A React.js, Tailwind CSS-Shadcn/UI-based password generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## App working:
+https://github.com/user-attachments/assets/37d9dfad-9b80-44ae-b9d5-225646384d8e
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How to run?
+1) Clone the GitHub repository
+2) Open CLI and run ```npm install``` (Make sure you are in the project folder)
+3) Next, ```npm run dev```
+4) Open the browser, you can view the app on http://localhost:5173/
+
+Happy Coding!
